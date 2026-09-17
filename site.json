@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "name": "문서메이커",
+  "brand": "DOC MAKER",
+  "mark": "DM",
+  "worker": "docmaker",
+  "url": "https://docmaker.webnote-lab.workers.dev",
+  "description": "보고서, 회의록, 요약과 문장 정리에 필요한 방법을 다룹니다.",
+  "tagline": "생각을 읽기 쉬운 문서로",
+  "categories": [
+    {
+      "slug": "reports",
+      "name": "보고서",
+      "description": "보고서 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "minutes",
+      "name": "회의록",
+      "description": "회의록 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "summaries",
+      "name": "요약",
+      "description": "요약 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "report-review",
+      "name": "보고서 검수",
+      "description": "보고서 검수 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "document-conversion",
+      "name": "문서 변환",
+      "description": "문서 변환 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "meeting-prep",
+      "name": "회의 준비",
+      "description": "회의 준비 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "editing",
+      "name": "문장 다듬기",
+      "description": "문장 다듬기 관련 확인 방법과 가이드"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/docmaker/issues"
+}
